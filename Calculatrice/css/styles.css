@@ -1,0 +1,59 @@
+body {
+    font-family: "Open Sans" "sans-serif";
+    background-color: darkolivegreen;
+    background-size: cover; 
+}
+h1{
+    text-align: center;
+    margin-bottom: 32px;
+    color: darkorange;
+    text-shadow: darkgoldenrod;
+
+}
+#container{
+    font-size: 32px;
+    margin: 128px auto;
+    width: 768px;
+}
+
+#Calculette, #Ecran{
+    border-radius: 6px;
+    padding: 10px;
+}
+
+#Calculette{
+    margin: 0 auto;
+    background-color: beige;
+    border: 1px solid rgb(146, 145, 56);
+    width: 279px;
+    box-shadow:0px 7px 10px darkslategray
+}
+#header{
+    padding: 10px;
+}
+input#Ecran{
+    font-size: 14px;
+    padding: 16px;
+    text-align: right;
+}
+
+#body{
+    padding: 0 10px;
+}
+
+.buttons{
+    cursor: default;
+    text-align: center;
+    font-size: 20px;
+    font-style: bold;
+    padding: 7px 12px;
+    display: inline-block;
+    color: darkorange ;
+    width: 30px;
+    box-shadow: 0px 2px 6px darkorange;
+    margin-bottom: 8x;
+}
+
+.buttons:hover{
+    background: lightsalmon;
+}
