@@ -1,6 +1,6 @@
 # Exercices-js
 
-Calculatrice
+- Calculatrice
 
 l'utilisateur entre un Nombre (On stocke ce nombre)
 
@@ -13,7 +13,7 @@ Effectue le calcul
 Affiche le resultat
 
 
-Nombre mistère
+- Nombre mistère
 
 Nombre choisi aléatoirement entre 0 & 9
 
